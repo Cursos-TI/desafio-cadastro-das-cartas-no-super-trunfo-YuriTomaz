@@ -25,7 +25,7 @@
         scanf("%d", &populacao1);
         
         //pergunta a area da cidade e armazena o valor na variavel
-        printf("Insira a area da cidade em kilometros quadrados: ");
+        printf("Insira a area da cidade em quilometros quadrados: ");
         scanf("%f", &area1);
         
         //pergunta o valor do pib e armazena o valor na variavel
@@ -50,7 +50,7 @@
         printf("Insira o numero de habitantes da cidade ");
         scanf("%d", &populacao2);
 
-        printf("Insira a area da cidade em kilometros quadrados: ");
+        printf("Insira a area da cidade em quilometros quadrados: ");
         scanf("%f", &area2);
 
         printf("Insira o PIB da cidade: ");
