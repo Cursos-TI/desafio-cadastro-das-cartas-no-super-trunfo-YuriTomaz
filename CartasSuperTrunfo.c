@@ -60,7 +60,7 @@
         scanf("%d", &total_pontoturistico2);
         
         //mostra as cartas com os dados informados da primeira carta
-        printf("Carta 1\n"
+        printf("\nCarta 1\n"
                 "Estado: %s\n"
                 "Codigo: %s\n"
                 "Nome da cidade: %s\n"
