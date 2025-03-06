@@ -67,7 +67,7 @@
                 "Populacao: %d\n"
                 "Area: %3.f\n"
                 "Pib: %3.f\n"
-                "Numero de pontos turisticos: %d", estado1, codigo_carta1, nome_cidade1, populacao1, area1, pib1, total_pontoturistico1);
+                "Numero de pontos turisticos: %d\n", estado1, codigo_carta1, nome_cidade1, populacao1, area1, pib1, total_pontoturistico1);
         //mostra as cartas com os dados informados da segunda carta
         printf("\nCarta 2\n"
                 "Estado: %s\n"
